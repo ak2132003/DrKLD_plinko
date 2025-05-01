@@ -4,8 +4,8 @@
 // @version      1.1
 // @description  إنهاء بلينكو بواسطة د.أحمد خالد 👑
 // @author       د.أحمد خالد
-// @updateURL    
-// @downloadURL 
+// @updateURL    https://raw.githubusercontent.com/ak2132003/DrKLD_plinko/main/DrKLD_plinko.user.js
+// @downloadURL  https://raw.githubusercontent.com/ak2132003/DrKLD_plinko/main/DrKLD_plinko.user.js
 // @match        *.centurygames.com/*
 // @grant        unsafeWindow
 // @run-at       document-end
